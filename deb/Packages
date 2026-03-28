@@ -1,0 +1,48 @@
+Package: claude-desktop-bin
+Version: 1.1.9310-3
+Architecture: amd64
+Maintainer: Claude Desktop Linux Community <claude-desktop-linux@users.noreply.github.com>
+Installed-Size: 311888
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, libatspi2.0-0, libdrm2, libgbm1, libasound2
+Recommends: libnotify-bin
+Suggests: xdotool, scrot, xclip, wmctrl, socat, hyprland, nodejs
+Filename: amd64/claude-desktop-bin_1.1.9310-3_amd64.deb
+Size: 92667128
+MD5sum: 4d8a2f42359dc863824d722c37fd4e31
+SHA1: df1fc5572e42c9d04b3e0d851e3c0f0d5670bc68
+SHA256: c1835175c8c52decf7747d24ad508dd1575137eceed987137fb8ce717361335d
+Section: utils
+Priority: optional
+Homepage: https://claude.ai
+Description: Claude AI Desktop Application
+ Claude is an AI assistant created by Anthropic to be helpful,
+ harmless, and honest. This desktop application provides native
+ access to Claude with features including conversational AI,
+ code generation, document understanding, and system tray integration.
+ .
+ Note: This is an unofficial Linux port. Requires an Anthropic account.
+
+Package: claude-desktop-bin
+Version: 1.1.9310-3
+Architecture: arm64
+Maintainer: Claude Desktop Linux Community <claude-desktop-linux@users.noreply.github.com>
+Installed-Size: 350632
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, libatspi2.0-0, libdrm2, libgbm1, libasound2
+Recommends: libnotify-bin
+Suggests: xdotool, scrot, xclip, wmctrl, socat, hyprland, nodejs
+Filename: arm64/claude-desktop-bin_1.1.9310-3_arm64.deb
+Size: 99434804
+MD5sum: 61c4d0dec4451be65478180094285358
+SHA1: da155d7eabacf558606810c970fa69963b7430c8
+SHA256: f94153e402214a2a4e79675286e4bb36ba2ee324fe90c26c9f9aa36adbe0a013
+Section: utils
+Priority: optional
+Homepage: https://claude.ai
+Description: Claude AI Desktop Application
+ Claude is an AI assistant created by Anthropic to be helpful,
+ harmless, and honest. This desktop application provides native
+ access to Claude with features including conversational AI,
+ code generation, document understanding, and system tray integration.
+ .
+ Note: This is an unofficial Linux port. Requires an Anthropic account.
+
